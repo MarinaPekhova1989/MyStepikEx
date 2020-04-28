@@ -3,7 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/MyStepik.iml" filepath="$PROJECT_DIR$/.idea/modules/MyStepik.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/mystepik-build.iml" filepath="$PROJECT_DIR$/.idea/modules/mystepik-build.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/mystepikex-build.iml" filepath="$PROJECT_DIR$/.idea/modules/mystepikex-build.iml" />
     </modules>
   </component>
 </project>
